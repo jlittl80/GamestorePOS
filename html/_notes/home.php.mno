@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsToday" value="name:SUM(trans_lookup.Price);datatype:real" />
+	<infoitem key="UD_rsTodayMoneyTransactions" value="name:COUNT(DISTINCT(transactions.TransID));datatype:int" />
+	<infoitem key="UD_rsTodayMoneyMoney" value="name:SUM(trans_lookup.Price);datatype:real" />
+</info>

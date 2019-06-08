@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsTodayTransactions" value="name:TodayTrans;datatype:int" />
+	<infoitem key="UD_rsTodayMoney" value="name:TodayMoney;datatype:real" />
+	<infoitem key="UD_rsTotalTransactions" value="name:TotalTrans;datatype:int" />
+	<infoitem key="UD_rsTotalMoney" value="name:TotalMoney;datatype:real" />
+	<infoitem key="UD_rsTotalMembers" value="name:TotalMembers;datatype:int" />
+	<infoitem key="UD_rsTodayMembers" value="name:TodayMembers;datatype:int" />
+	<infoitem key="UD_rsGameStock" value="name:Title_Name;datatype:string,name:Platform;datatype:string,name:Stock;datatype:int" />
+</info>

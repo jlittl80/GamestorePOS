@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsProductDetails" value="name:GameID;datatype:string,name:Title_Name;datatype:string,name:Release_Date;datatype:date,name:Rating;datatype:int,name:Description;datatype:string,name:Genre;datatype:string,name:Stock;datatype:int,name:Platform;datatype:string,name:Default_Price;datatype:real,name:Deleted;datatype:int" />
+	<infoitem key="UD_Recordset1" value="name:Genre_Name;datatype:string,name:Genre _Value;datatype:string" />
+</info>

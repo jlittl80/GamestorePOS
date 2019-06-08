@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsGetStaffRoles" value="name:RoleID;datatype:int,name:Role_Name;datatype:string,name:Description;datatype:string" />
+	<infoitem key="UD_rsShowColumns" value="name:Field;datatype:string,name:Type;datatype:blob,name:Null;datatype:string,name:Key;datatype:string,name:Default;datatype:blob,name:Extra;datatype:string" />
+	<infoitem key="UD_rsCountStaffTableColumns" value="name:COUNT(COLUMN_NAME);datatype:int" />
+	<infoitem key="UD_rsGetColumnsWithoutRolePasswordPrimaryKey" value="name:Field;datatype:string,name:Type;datatype:blob,name:Null;datatype:string,name:Key;datatype:string,name:Default;datatype:blob,name:Extra;datatype:string" />
+	<infoitem key="UD_rsCountColumnsWithoutRolePasswordPrimaryKey" value="name:COUNT(COLUMN_NAME);datatype:int" />
+	<infoitem key="UD_rsGetColumnsWithoutPassword" value="name:Field;datatype:string,name:Type;datatype:blob,name:Null;datatype:string,name:Key;datatype:string,name:Default;datatype:blob,name:Extra;datatype:string" />
+	<infoitem key="UD_rsStaffRolesInfo" value="name:RoleID;datatype:int,name:Role_Name;datatype:string" />
+</info>

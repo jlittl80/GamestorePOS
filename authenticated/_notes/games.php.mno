@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsTotalGames" value="name:TotalGames;datatype:int" />
+	<infoitem key="UD_rsSelectGenres" value="name:Genre_Name;datatype:string,name:Genre _Value;datatype:string" />
+	<infoitem key="UD_rsShowColumns" value="name:Field;datatype:string,name:Type;datatype:blob,name:Null;datatype:string,name:Key;datatype:string,name:Default;datatype:blob,name:Extra;datatype:string" />
+	<infoitem key="UD_rsCountGameTableColumns" value="name:COUNT(COLUMN_NAME);datatype:int" />
+	<infoitem key="UD_rsShowColumnsWithoutPQ" value="name:Field;datatype:string,name:Type;datatype:blob,name:Null;datatype:string,name:Key;datatype:string,name:Default;datatype:blob,name:Extra;datatype:string" />
+</info>

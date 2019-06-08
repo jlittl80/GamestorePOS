@@ -1,0 +1,53 @@
+.allstuff {
+	font: normal .8em/1.5em Arial, Helvetica, sans-serif;
+	width: 900px;
+	margin: 10px auto;
+	margin-top: 10px;
+}
+
+#bg {
+	position:fixed; 
+	top:0; 
+	left:0; 
+	width:100%; 
+	height:100%;
+}
+
+#content {
+	position:relative; 
+	z-index:1;
+}
+
+.textbg {
+	background:rgba(255, 105, 16, 1);/*rgba(255,255,255,0.5);*/
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	padding:5px 10px 5px 10px;
+	text-align:justify;
+	color:#FFF;
+	margin: 5px 5px 5px 5px;
+}
+
+a {
+	color:#FFF;
+}
+
+/*All the Input box stuff on login page*/
+.inputglow {
+    border: 2px solid #ff6910;
+    border-radius: 7px;
+	-webkit-border-radius: 4px;
+       -moz-border-radius: 4px;
+            border-radius: 4px;
+}
+
+.inputglow:focus { 
+    -webkit-box-shadow: 0px 0px 6px #4195fc;
+       -moz-box-shadow: 0px 0px 6px #4195fc;
+            box-shadow: 0px 0px 6px #4195fc;
+}
+
+.unhappyMessage {
+            display:  block;
+        }
